@@ -1,5 +1,3 @@
-alert("Welcome from AK");
-
 // Sticky Navigation Menu 
 
 let nav = document.querySelector("nav");
